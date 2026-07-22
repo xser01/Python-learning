@@ -1,7 +1,7 @@
 def multiple_of_index(arr):
     list_chuncu=[]
     shuru=arr
-    list_yuan=list(shuru)
+    list_yuan=list(shuru)  #hhhh
     for arr_1 in shuru:
         num=list_yuan.index(arr_1)
         if  num == 0:
