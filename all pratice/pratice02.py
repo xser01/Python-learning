@@ -29,3 +29,4 @@ def multiple_of_index(arr):
 a = json.loads(input("请输入列表（例如 [1, 3, 44, 55])"))
 b = multiple_of_index(a)
 print(b)
+#finish
